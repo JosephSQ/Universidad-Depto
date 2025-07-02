@@ -52,7 +52,6 @@ Este proyecto es un pequeño programa hecho en Java que simula cómo funciona un
 ---
 ![image](https://github.com/user-attachments/assets/8a3c9cbe-277a-4ddb-9406-639790d46079)
 
-![image](https://github.com/user-attachments/assets/38d2342c-89b0-4f54-ab61-26ce53ce3f09)
 ![image](https://github.com/user-attachments/assets/69a915b6-dc0c-4330-93fe-1d821a5223fb)
 ![image](https://github.com/user-attachments/assets/4ce68d84-96cd-46ff-ae13-843fe989315c)
 
