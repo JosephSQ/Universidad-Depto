@@ -47,6 +47,6 @@ Este proyecto es un pequeño programa hecho en Java que simula cómo funciona un
 ---
 
 ## 🏆 Autor
- [Joseph Quevedo]
+ Joseph Quevedo
 
 ---
